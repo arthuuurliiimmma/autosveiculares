@@ -21,7 +21,7 @@ return [
 
     'panel' => [
         'base_url' => rtrim(env_value('PANEL_BASE_URL', 'https://painelfantasma.site'), '/'),
-        'server_token' => env_value('PANEL_SERVER_TOKEN', 'COLE_AQUI_O_TOKEN_SERVIDOR_DO_PAINEL'),
+        'server_token' => env_value('PANEL_SERVER_TOKEN', '6714dfe4a73a15f23faa529b5ce92e34365b753fb7a38739'),
     ],
 
     /*
