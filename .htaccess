@@ -1,5 +1,0 @@
-DirectoryIndex index.html
-
-RewriteEngine On
-RewriteRule ^loja\.html$ debitos/ [R=302,L,QSA]
-RewriteRule ^loja/?$ debitos/ [R=302,L,QSA]
